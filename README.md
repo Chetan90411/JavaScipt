@@ -1,2 +1,2 @@
-# JavaScipt
+# JavaScript
 ## Javascript practice code
