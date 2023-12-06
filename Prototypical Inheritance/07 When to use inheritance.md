@@ -17,7 +17,7 @@ But maybe tomorrow we want to introduce a Goldfish object that also derives form
 
 ![Inheritance](./images/07-02.png "Inheritance")
 
-To fix this we need to change our hierarchy, And introduce a Mammal object and a Fish object. This menas increasing the complexity of our hierarchy.
+To fix this we need to change our hierarchy, And introduce a Mammal object and a Fish object. This means increasing the complexity of our hierarchy.
 
 ![Inheritance](./images/07-03.png "Inheritance")
 
