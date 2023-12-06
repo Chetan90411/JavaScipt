@@ -22,7 +22,7 @@ To fix this we need to change our hierarchy, And introduce a Mammal object and a
 ![Inheritance](./images/07-03.png "Inheritance")
 
 Avoid creating inheritance hierarchies. It is best to keep inheritance to one level.
-In some situations it is better to favor Composition over Inheritance. With composition in instead of having a complex hierarchy, we can compose a few objects together to create a new object, this technic gives us great flexibility.
+In some situations it is better to favor Composition over Inheritance. With composition in instead of having a complex hierarchy, we can compose a few objects together to create a new object, this technique gives us great flexibility.
 
 So we can have 3 plain JavaScript objects, with certain properties and methods, like:
 
