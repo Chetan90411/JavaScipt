@@ -1,2 +1,2 @@
 # JavaScript
-## Javascript practice code
+## Javascript practice code from Code With Mosh Ultimate Javascript mastery series
