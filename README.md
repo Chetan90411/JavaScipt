@@ -1,0 +1,2 @@
+# JavaScipt
+## Javascript practice code
