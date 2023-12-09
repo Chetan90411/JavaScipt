@@ -12,7 +12,7 @@ let objectBase = Object.getPrototypeOf(person);
 let descriptor = Object.getOwnPropertyDescriptors(objectBase, 'toString');
 console.log(descriptor);
 
-// when we see the descriptor of toString method we get to know that the enumerable protery in the constructor is set to false which does not allow toString
+// when we see the descriptor of toString method we get to know that the enumerable protery in the constructor is set to false which does not allow toString method to be visible
 
 // Since we changed the writable property of the name property to false we cannot change its value now 
 Object.defineProperty(person, 'name', {
