@@ -12,7 +12,7 @@ for (let key in circle) {
     console.log(key, circle[key]);
 }
 
-// Below Object.keys() function returs all the methods and properties key values as an array but we cannot filter the methods from the object 
+// Below Object.keys() function returns all the methods and properties key values as an array but we cannot filter the methods from the object 
 const keys = Object.keys(circle);
 console.log(keys);
 
